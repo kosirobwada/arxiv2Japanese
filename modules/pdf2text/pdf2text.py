@@ -2,11 +2,14 @@ import fitz  # PyMuPDF
 import json
 import os
 
+# ターゲットクエリ
+target_query = 'VAE'
+
 # PDFファイルが格納されているディレクトリ
-directory_path = '../../data/pdf/optim/'
+directory_path = f'../../data/pdf/{target_query}/'
 
 # JSONファイルを保存するディレクトリ
-json_directory_path = '../../data/json/optim/'
+json_directory_path = f'../../data/json/{target_query}/'
 
 # JSONファイル保存用ディレクトリが存在しない場合は作成
 if not os.path.exists(json_directory_path):
