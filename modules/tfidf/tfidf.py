@@ -3,7 +3,7 @@ import json
 import os
 
 # ターゲットクエリ
-target_query = 'optim'
+target_query = 'VAE'
 
 # JSONファイルが格納されているディレクトリ
 directory_path = f'../../data/json/{target_query}/'
@@ -22,7 +22,7 @@ for json_file in os.listdir(directory_path):
         print(f"Processed {json_file}")
 
 # TF-IDFを計算
-vectorizer = TfidfVectorizer(max_features=500, stop_words='english', ngram_range=(1, 3))
+vectorizer = TfidfVectorizer(max_features=2000, stop_words='english', ngram_range=(1, 3))
 tfidf_matrix = vectorizer.fit_transform(texts)
 
 # 各特徴(単語)のTF-IDFスコアに基づいて重要な単語を取得
