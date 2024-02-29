@@ -1,0 +1,2000 @@
+00
+000
+001
+002
+003
+004
+005
+01
+02
+03
+04
+05
+07
+09
+10
+10 10
+10 10 10
+10 11
+10 11 12
+10 12
+10 12 14
+100
+100 200
+1000
+101
+102
+11
+11 12
+11 12 13
+12
+12 13
+12 13 14
+12 14
+12 14 16
+120
+13
+13 14
+13 14 15
+14
+14 15
+14 16
+14 16 18
+15
+15 16
+150
+16
+16 17
+16 18
+16 18 20
+17
+17 18
+18
+18 19
+18 20
+19
+19 20
+20
+20 21
+200
+2000
+2005
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2023a
+2023b
+2024
+21
+21 22
+22
+22 23
+23
+23 24
+24
+24 25
+2402
+25
+256
+26
+27
+27 feb
+27 feb 2024
+28
+29
+2d
+2fn
+2k
+2n
+2r
+30
+300
+31
+32
+33
+34
+35
+36
+360
+37
+38
+39
+3d
+3d cad
+40
+400
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+50 100
+500
+51
+52
+53
+54
+55
+56
+57
+58
+59
+5g
+5g nr
+60
+600
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+a1
+a2
+ab
+ability
+ablation
+able
+abs
+absolute
+abstract
+ac
+acc
+access
+according
+account
+accuracy
+accurate
+achieve
+achieved
+achieves
+acm
+action
+actions
+activation
+activations
+active
+actual
+ad
+adam
+adamw
+adaptive
+add
+added
+adding
+addition
+additional
+additionally
+additive
+additive manufacturing
+address
+advances
+advances neural
+advances neural information
+advantage
+adversarial
+adversarial training
+agent
+agent pro
+agents
+ai
+aided
+aim
+ak
+al
+al 2017
+al 2018
+al 2019
+al 2020
+al 2021
+al 2022
+al 2023
+alg
+algorithm
+algorithmic
+algorithms
+algwc
+alignment
+allcompare
+allocated
+allocation
+allow
+allowing
+allows
+ambiguity
+ame
+american
+analysis
+analyze
+angle
+angular
+angular scales
+annotated
+antenna
+ap
+app
+appendix
+application
+applications
+applied
+apply
+applying
+approach
+approaches
+approximate
+approximation
+arbitrary
+architecture
+architectures
+area
+argument
+arm
+array
+art
+article
+artificial
+artificial intelligence
+arxiv
+arxiv 2402
+arxiv preprint
+arxiv preprint arxiv
+assembly
+assigned
+associated
+association
+association computational
+association computational linguistics
+assume
+assumed
+assuming
+assumption
+assumptions
+attention
+audio
+audio generation
+augmented
+authors
+autodiff
+automatic
+automatically
+auxiliary
+auxiliary qubits
+available
+available https
+average
+avoid
+aware
+b1
+b1 58
+b2
+background
+backward
+balance
+bandit
+bandits
+banerjee
+barrier
+base
+based
+baseline
+baselines
+basic
+batch
+batch size
+batches
+bayesian
+bayesian optimization
+beam
+behavior
+behavioral
+belief
+beliefs
+benchmark
+berlin
+best
+better
+bi
+bin
+binary
+bit
+bitnet
+bitnet b1
+bitnet b1 58
+block
+blsur
+bnn
+bound
+boundary
+bounded
+bounds
+box
+bpl
+bpl allocation
+bpls
+bs
+bucket
+buckets
+build
+built
+bw
+bwt
+c1
+c2
+ca
+cache
+cache oblivious
+cad
+cad models
+called
+calls
+calls player
+candidate
+cannabis
+cannabis use
+cao
+capabilities
+capacity
+capture
+card
+cards
+case
+cases
+cbf
+cell
+center
+certain
+cf
+chain
+challenge
+challenges
+challenges partial
+challenges partial observability
+challenging
+change
+changes
+channel
+channel estimation
+checks
+chen
+cheng
+choice
+choice probabilities
+choose
+chosen
+ciaba
+cifar
+cifar 10
+cl
+claim
+class
+classes
+classical
+classification
+clean
+clear
+close
+closed
+cluster
+cmb
+cmilc
+cn
+code
+codebook
+coefficient
+coefficients
+coherence
+collection
+com
+combination
+combined
+combining
+command
+commands
+common
+communication
+communications
+compare
+compared
+comparison
+comparisons
+competitive
+complete
+completion
+complex
+complexity
+component
+components
+composite
+comprehensive
+compression
+computation
+computational
+computational linguistics
+compute
+computed
+computer
+computer science
+computer vision
+computer vision pattern
+computing
+concept
+concepts
+conclude
+conclusion
+condition
+conditional
+conditions
+conference
+conference computer
+conference computer vision
+conference learning
+conference learning representations
+conference machine
+conference machine learning
+connected
+consequently
+consider
+considered
+considering
+consistent
+consists
+const
+constant
+constrained
+constraint
+constraints
+construct
+construction
+contain
+contains
+content
+context
+contextual
+continuous
+contour
+contrast
+contrastive
+contribution
+contributions
+control
+controller
+conventional
+convergence
+convex
+convex optimization
+corollary
+corr
+correct
+correction
+corresponding
+corresponds
+cost
+covariance
+cover
+cpu
+create
+critical
+crl
+cross
+crucial
+cs
+csi
+ct
+ctn
+cuda
+current
+current prompt
+currently
+curve
+curves
+custom
+cut
+cuts
+cvf
+d1
+daniel
+data
+dataset
+datasets
+david
+day
+db
+dealer
+decay
+deceptive
+decision
+decision making
+decoder
+decomposition
+ded
+deep
+deep learning
+def
+default
+define
+defined
+definition
+degree
+demonstrate
+demonstrated
+demonstrates
+denoising
+denote
+denoted
+denotes
+density
+depend
+dependent
+depends
+depicted
+deprojection
+derivative
+derivatives
+derive
+derived
+descent
+described
+description
+design
+designed
+designs
+desired
+despite
+detailed
+details
+detection
+determine
+determined
+deterministic
+developed
+development
+deviation
+dg
+dg vi
+dgi
+di
+dice
+difference
+differences
+different
+differentiable
+differentiation
+diffusion
+diffusion models
+digital
+dimension
+dimensional
+direct
+direction
+directly
+discrete
+discrimination
+discuss
+discussed
+discussion
+distance
+distinct
+distributed
+distribution
+distributions
+diverse
+document
+document sentences
+does
+doi
+doi 10
+doi org
+doi org 10
+domain
+domains
+dr
+drawing
+drift
+driven
+ds
+dt
+du
+dual
+dust
+dx
+dx wt
+dx ˆu
+dx ˆu wt
+dynamic
+dynamics
+dω
+e1
+early
+easily
+easy
+edge
+edges
+editing
+edu
+effect
+effective
+effectively
+effectiveness
+effects
+efficiency
+efficient
+efficiently
+effort
+einstein
+ekf
+element
+elements
+elliptic
+em
+embedding
+embeddings
+emission
+empirical
+employ
+employed
+en
+enables
+encoder
+end
+end end
+energy
+engineering
+enhance
+ensure
+entailment
+entanglement
+entire
+entropy
+environment
+ep
+epoch
+epochs
+eq
+equal
+equation
+equations
+equilibrium
+equivalent
+error
+errors
+especially
+essentially
+establish
+estimate
+estimates
+estimation
+et
+et al
+et al 2017
+et al 2018
+et al 2019
+et al 2020
+et al 2021
+et al 2022
+et al 2023
+euclidean
+european
+evaluate
+evaluated
+evaluating
+evaluation
+evaluators
+evaluators reward
+evaluators reward learning
+event
+evidence
+evolution
+ex
+ex dx
+exact
+example
+examples
+exceptional
+exergy
+exist
+existing
+exists
+exp
+expectation
+expected
+experiment
+experimental
+experiments
+explicit
+explicitly
+exploration
+explore
+exponential
+expression
+extended
+extensive
+external
+face
+faces
+fact
+factor
+factors
+fairness
+far
+fast
+feasible
+feature
+features
+feb
+feb 2024
+feedback
+fidelity
+field
+fig
+figure
+figure shows
+filter
+final
+finally
+finding
+fine
+fine tuning
+finite
+fit
+fix
+fixed
+flow
+fn
+focus
+follow
+following
+follows
+force
+foreground
+foregrounds
+form
+format
+forms
+formulation
+forward
+forward backward
+fpga
+fraction
+framework
+free
+frequency
+ft
+ftl
+fully
+function
+functions
+fundamental
+furthermore
+fusion
+future
+gain
+galactic
+game
+games
+gap
+gaussian
+gaussian process
+gc
+general
+generalization
+generalized
+generally
+generate
+generated
+generating
+generation
+generative
+generic
+geometric
+geometry
+germany
+gi
+github
+github com
+given
+gives
+global
+gnb
+gnilc
+goal
+good
+gpo
+gpt
+gradient
+gradients
+grained
+graph
+graphmatch
+graphs
+green
+grid
+ground
+ground truth
+group
+guarantee
+guarantees
+guidance
+guided
+habituation
+hamiltonian
+han
+hand
+handle
+handling
+hardware
+having
+hbf
+hbf mu
+hbf mu mimo
+heat
+help
+hessian
+heuristic
+high
+high probability
+higher
+highest
+highly
+hn
+hold
+holds
+horizon
+https
+https doi
+https doi org
+https www
+hu
+huang
+human
+human evaluators
+human evaluators reward
+hybrid
+hyper
+hyperparameters
+hypothesis
+i2
+iaba
+ic
+iclr
+idea
+ideal
+identical
+identity
+ieee
+ieee cvf
+ieee transactions
+ii
+iii
+ij
+illustrated
+im
+image
+imagenet
+images
+impact
+implementation
+implemented
+implicit
+implies
+important
+improve
+improved
+improvement
+improvements
+improves
+improving
+incertum
+include
+includes
+including
+increase
+increases
+increasing
+independent
+index
+indicates
+individual
+inequalities
+inequality
+inf
+inference
+info
+info rag
+information
+information processing
+information processing systems
+infuse
+ing
+initial
+initialization
+injective
+inner
+input
+inputs
+instance
+instances
+instead
+institute
+integer
+integration
+intelligence
+intelligent
+inter
+interconnection
+interface
+interference
+intermediate
+international
+international conference
+international conference learning
+international conference machine
+intersection
+interval
+introduce
+introduced
+introduces
+introducing
+introduction
+investigate
+involves
+ir
+irregular
+irregular strip
+irregular strip packing
+irreversible
+issue
+iteration
+iterations
+iv
+ivon
+javascript
+jk
+jobs
+joint
+jointly
+journal
+just
+k2
+ker
+kernel
+key
+kim
+kind
+knowledge
+known
+l1
+l2
+label
+labels
+lane
+lane change
+language
+language modeling
+language models
+large
+large language
+large language models
+large scale
+larger
+laser
+laser power
+latent
+latent space
+later
+latexit
+law
+layer
+layers
+layout
+ldsr
+lead
+leading
+leads
+learn
+learned
+learning
+learning pages
+learning policy
+learning process
+learning rate
+learning representations
+lee
+left
+lemma
+length
+let
+letters
+level
+leverage
+leveraging
+li
+like
+likelihood
+limit
+limited
+limits
+lin
+line
+linear
+lines
+linguistics
+link
+lipschitz
+list
+literature
+liu
+llama
+llm
+llm based
+llms
+lm
+lmc
+ln
+local
+log
+log log
+log2
+long
+loop
+loss
+losses
+low
+lower
+lower bound
+lp
+lstm
+lt
+lu
+lvmogp
+ma
+machine
+machine learning
+mail
+main
+make
+makes
+making
+manufacturing
+map
+mapping
+maps
+mask
+masked
+mass
+matching
+material
+math
+mathematical
+matrices
+matrix
+max
+maximize
+maximum
+mc
+mean
+means
+measure
+measurements
+measures
+mechanical
+medical
+memory
+ment
+mentioned
+message
+meta
+method
+methods
+metric
+metrics
+mfgds
+microstructure
+mimo
+min
+mini
+minimal
+minimization
+minimize
+minimizing
+minimum
+miso
+miwaves
+mixed
+mixed integer
+mm
+mm wave
+mode
+model
+modeling
+models
+models arxiv
+modes
+mogp
+moment
+moments
+momentum
+mtb
+mu
+mu mimo
+multi
+multiple
+n2
+named
+natural
+natural language
+nature
+ncsi
+ncsi rs
+near
+near optimal
+necessary
+need
+needed
+needlet
+needs
+negative
+net
+network
+networks
+neural
+neural information
+neural information processing
+neural network
+neural networks
+neurips
+new
+nh
+night
+nights
+nilc
+nl
+nli
+node
+nodes
+noise
+noisy
+non
+nonconvex
+nonlinear
+norm
+notably
+notation
+note
+novel
+nq
+nr
+nt
+nu
+number
+numbers
+numerical
+nℓt
+object
+objective
+objective function
+objectives
+oblivious
+observability
+observability human
+observability human evaluators
+observation
+observations
+observe
+observed
+obtain
+obtained
+ocmilc
+ones
+online
+online available
+online learning
+op
+open
+operation
+operations
+operator
+opponents
+opt
+optimal
+optimal learning
+optimal solution
+optimality
+optimization
+optimization problem
+optimize
+optimized
+optimizer
+optimizers
+optimizing
+opus
+opus incertum
+order
+ordered
+org
+org 10
+original
+os
+otoc
+outer
+outperforms
+output
+outputs
+overall
+p0
+p1
+p2
+packing
+packing problem
+pages
+pair
+pairs
+paper
+parabolic
+parallel
+parameter
+parameters
+parametric
+partial
+partial observability
+partial observability human
+particular
+particularly
+partition
+parts
+pass
+path
+pattern
+pattern recognition
+pc
+penalty
+perform
+performance
+performed
+performs
+permutation
+perspective
+pg
+ph
+phase
+photo
+phys
+phys rev
+physical
+physics
+pi
+pico
+pieces
+pipeline
+pivot
+pj
+planning
+play
+player
+player calls
+player calls player
+player raises
+player raises player
+players
+plot
+plr
+pmlr
+pn
+po
+point
+points
+polarization
+policies
+policy
+polynomial
+population
+port
+ports
+position
+positive
+possible
+post
+posterior
+posteriori
+posteriori error
+potential
+povms
+power
+pp
+ppt
+pq
+pr
+practical
+practice
+pre
+pre trained
+pre training
+precise
+precision
+predict
+prediction
+predictions
+predictive
+premise
+preprint
+preprint arxiv
+presence
+present
+presented
+press
+previous
+previously
+primitive
+primitives
+prior
+pro
+probabilities
+probability
+problem
+problems
+procedure
+proceedings
+proceedings ieee
+process
+process models
+processes
+processing
+processing systems
+produce
+product
+profile
+program
+programming
+programs
+progress
+project
+projection
+prompt
+prompts
+proof
+proof lemma
+proof proposition
+proof theorem
+proofs
+properties
+property
+propose
+proposed
+proposition
+prove
+provide
+provided
+provides
+proximal
+pt
+pure
+python
+pytorch
+q1
+q2
+q3
+qi
+qj
+quadratic
+quality
+quantities
+quantity
+quantization
+quantum
+quantum states
+qubit
+qubits
+query
+query processing
+question
+qvae
+r0
+r1
+radius
+rag
+raises
+raises player
+random
+randomized
+randomly
+range
+rank
+rate
+rates
+ratio
+rational
+rd
+real
+real time
+real world
+reason
+reasoning
+rebandit
+recall
+recent
+recently
+recognition
+reconstruction
+red
+reduce
+reduced
+reduces
+reduction
+refer
+reference
+references
+referred
+refinement
+reflection
+reg
+reg ftl
+regime
+region
+regions
+regret
+regularization
+reinforcement
+reinforcement learning
+related
+relation
+relations
+relative
+relatively
+relevant
+remaining
+remains
+remark
+rep
+replace
+report
+reported
+represent
+representation
+representations
+represented
+representing
+represents
+request
+require
+required
+requires
+research
+residual
+residuals
+resnet
+resource
+resp
+respect
+respective
+respectively
+response
+result
+resulting
+results
+retrieval
+retrieved
+retrieved texts
+return
+return function
+rev
+reverse
+reversible
+review
+reward
+reward function
+reward learning
+rf
+ri
+right
+ris
+risk
+rl
+rlhf
+rn
+robust
+robustness
+role
+root
+rose
+rotor
+round
+rs
+rule
+rules
+run
+running
+runs
+s1
+s2
+s3
+sadm
+safety
+sam
+sample
+sampled
+samples
+sampling
+sara
+satisfies
+satisfy
+satisfying
+say
+scalar
+scale
+scales
+scaling
+scan
+scenario
+scenarios
+scheduling
+scheme
+science
+scip
+score
+scores
+search
+sec
+second
+seconds
+section
+sector
+seed
+seen
+segmentation
+select
+selected
+selection
+self
+self supervised
+semantic
+semantics
+semester
+semi
+sense
+sensitivities
+sensitivity
+sentence
+sentences
+separation
+sequence
+sequences
+series
+set
+sets
+setting
+settings
+setup
+sgd
+shape
+shapes
+shift
+short
+shortest
+shot
+showing
+shown
+shown fig
+shown figure
+shows
+sign
+signal
+significant
+significantly
+similar
+similarity
+similarly
+simple
+simplicity
+simply
+simulation
+simulations
+simultaneously
+single
+sinr
+siso
+size
+sizes
+sk
+sketch
+sketches
+sky
+slightly
+small
+smaller
+smallest
+smart
+smooth
+sn
+software
+solid
+solution
+solutions
+solve
+solved
+solver
+solving
+song
+source
+space
+spatial
+special
+specific
+specifically
+specified
+spectral
+spectral parameters
+speed
+split
+springer
+st
+stable
+stage
+standard
+standard deviation
+start
+starting
+state
+state art
+statement
+states
+statistical
+statistics
+step
+steps
+stochastic
+stopping
+storage
+strategies
+strategy
+strip
+strip packing
+strip packing problem
+strong
+structural
+structure
+structures
+student
+studied
+studies
+study
+style
+sub
+subgraph
+subgraph query
+subgraph query processing
+subsequent
+subset
+success
+sufficient
+sufficiently
+suitable
+sum
+summaries
+summarisation
+summarization
+summary
+summary sentence
+sun
+sup
+supervised
+support
+supported
+suppose
+surface
+surfaces
+surrogate
+survey
+switching
+symmetric
+symmetries
+symmetry
+synchrotron
+synthesis
+systems
+t0
+t1
+t2
+table
+taken
+takes
+taking
+tang
+target
+targets
+task
+tasks
+tb
+td
+teacher
+technical
+technique
+techniques
+technology
+temperature
+template
+temporal
+tensor
+term
+terms
+test
+text
+texts
+th
+theorem
+theoretical
+theory
+thermal
+threshold
+throughput
+ti
+time
+time step
+times
+tion
+tional
+tions
+tj
+tj xj
+tk
+tn
+tn xn
+tnη
+tnη t0
+token
+tokens
+torchmd
+torchmd net
+total
+tr
+trace
+track
+train
+trained
+training
+training data
+trajectories
+trajectory
+trans
+transactions
+transfer
+transformer
+transformers
+treatment
+treatment effect
+tree
+true
+truth
+tsw
+tune
+tuning
+turn
+type
+types
+typically
+tz
+ue
+ues
+ui
+uj
+uncertainty
+underlying
+understanding
+unetr
+uniform
+uniformly
+unique
+unit
+university
+unknown
+unlike
+update
+updates
+upper
+upper bound
+url
+url https
+usa
+use
+used
+useful
+user
+users
+uses
+using
+usually
+ut
+ut wt
+ut wt wt
+utilize
+valid
+validation
+value
+values
+van
+vanilla
+variable
+variables
+variance
+variants
+variation
+variational
+variational learning
+various
+varying
+vector
+vectors
+vehicle
+version
+vertex
+vertices
+vh
+vi
+vi vi
+video
+video audio
+view
+viscosity
+vision
+vision pattern
+vision pattern recognition
+visual
+vnj
+vol
+volume
+voxel
+vt
+wang
+wave
+way
+web
+wei
+weight
+weighted
+weights
+wh
+wi
+wigner
+wigner matrices
+win
+wise
+wj
+words
+work
+works
+world
+worst
+worst case
+write
+written
+wt
+wt dx
+wt opt
+wt ut
+wt ut wt
+wt wt
+wt wt wt
+wt ˆut
+wu
+www
+x0
+x1
+x2
+xi
+xiao
+xj
+xn
+xt
+xt xt
+xu
+yang
+yi
+yields
+yn
+yt
+yu
+z1
+zero
+zhang
+zhao
+zhou
+zhu
+zi
+zj
+zt
+ˆf
+ˆn
+ˆu
+ˆu wt
+ˆu wt wt
+ˆut
+ˆut wt
+ˆx
+ˆxt
+ˆxt xt
+ˆy
+ˆω
+α1
+α2
+αm
+αs
+αw
+βd
+βd td
+βs
+γn
+ζgen
+ηt
+θt
+λi
+λt
+πj
+πj rs
+πref
+πt
+ρ0
+ρ0 ρ1
+ρ1
+ρii
+ρt
+σ2
+σ2ϵ
+σftl
+σh
+τz
+φ1
+ψi
+ψiso
+ψk
+ℓn
+ℓt
