@@ -9,7 +9,7 @@ target_query = 'VAE'
 directory_path = f'../../data/json/{target_query}/'
 
 # 結果を保存するテキストファイルのパス
-output_file_path = f'../../data/text/{target_query}/{target_query}_top_words.txt'
+output_file_path = f'../../data/text/{target_query}/{target_query}_top_words_by_tfidf.txt'
 
 # ディレクトリ内の全JSONファイルからテキストを読み込む
 texts = []
