@@ -1,2 +1,4 @@
 openai
 pymupdf
+python-dotenv
+azure-ai-openai
