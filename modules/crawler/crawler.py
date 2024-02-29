@@ -6,7 +6,7 @@ import os
 search_query = 'optim'
 
 # 保存先のディレクトリを指定
-save_directory = f"../../data/{search_query}/"
+save_directory = f"../../data/pdf/{search_query}/"
 if not os.path.exists(save_directory):
     os.makedirs(save_directory)
 
