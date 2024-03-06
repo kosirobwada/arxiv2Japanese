@@ -2,3 +2,4 @@ openai
 pymupdf
 python-dotenv
 azure-ai-openai
+neo4j
