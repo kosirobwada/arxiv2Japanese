@@ -3,7 +3,7 @@ import json
 import os
 
 # ターゲットクエリ
-target_query = 'VAE'
+target_query = 'optim'
 
 # PDFファイルが格納されているディレクトリ
 directory_path = f'../../data/pdf/{target_query}/'
@@ -27,6 +27,8 @@ else:
         for page in doc:
             text += page.get_text()
         doc.close()
+        # 改行を空白に置換
+        text = text.replace('\n', ' ')
 
         # 抽出したテキストをJSON形式で保存
         json_data = {"optim": text}
